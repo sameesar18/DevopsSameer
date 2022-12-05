@@ -1,1 +1,2 @@
-this is for sameer branch
+this is for sameer branch.
+Adding sameer conflict in the file .
